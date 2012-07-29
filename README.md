@@ -3,6 +3,9 @@ gltc
 
 learning for career skills, mainly about python and unix
 
+2012.07.29
+Head First Python
+
 2012.07.15
 ---
 http://woodpecker.org.cn/abyteofpython_cn/chinese/
